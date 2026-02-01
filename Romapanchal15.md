@@ -4,7 +4,7 @@
 I am *Roma Panchal, an **Electronics and Communication Engineering (ECE) student* with a strong interest in technology, programming, and web development. I enjoy learning how software and hardware work together to solve real-world problems and continuously work on improving my technical and problem-solving skills.
 
 ## Education
-- *Bachelor of Engineering (B.E.) – Electronics & Communication Engineering*  
+- *Bachelor of Engineering (B.E.) – Electronics & Computer Engineering*  
   (Currently pursuing)
 
 ## Technical Skills
